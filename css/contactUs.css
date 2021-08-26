@@ -1,0 +1,19 @@
+article {
+    width: 30%;
+    margin-left: 35%;
+}
+
+input[type=text], textarea, input[type=email] {
+    width: 90%;
+    padding: 10px;
+    font-size: 14px
+}
+input, textarea {
+    margin: 10px auto
+}
+textarea {
+    height: 100px
+}
+input[type=submit] {
+    margin-top: 25px
+}
